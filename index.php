@@ -16,7 +16,7 @@ if(isset($_SESSION['sesi'])) {
   <header>
     <nav>
       <div class="logo">
-        <a href="#"><img src="logorev.png" alt="RevMaster Logo"></a>
+        <a href="#"><img src="images/logorev.png" alt="RevMaster Logo"></a>
       </div>
       <div class="nav-links">
         <ul>
@@ -59,7 +59,7 @@ if(isset($_SESSION['sesi'])) {
     </main>
 
   <footer >
-    <p>&copy; 2010 Aditia. All rights reserved.</p>
+    <p>&copy; 2024 Aditia. All rights reserved.</p>
   </footer>
   <?php
 } else {

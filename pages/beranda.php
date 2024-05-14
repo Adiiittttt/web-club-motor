@@ -6,7 +6,7 @@
       <a href="index.php?p=tentang" class="btn-primary">Jelajahi Sekarang</a>
     </div>
     <div class="hero-image">
-      <img src="hero-image.png" alt="Hero Image">
+      <img src="images/hero-image.png" alt="Hero Image">
     </div>
   </section>
 </main>

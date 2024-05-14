@@ -11,7 +11,7 @@
     <div id="content">
         <p id="tombol-tambah-container">
             <a href="index.php?p=produk-input" class="tombol">Tambah Produk</a>
-            <a target="_blank" href="pages/cetak-produk.php"><img src="print.png" width="50px" height="50px"></a>
+            <a target="_blank" href="pages/cetak-produk.php"><img src="images/print.png" width="50px" height="50px"></a>
         </p>
         <form class="form-inline" method="post">
             <div align="right">

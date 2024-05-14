@@ -8,7 +8,7 @@
           <p>Kami berkomitmen untuk menyediakan wadah bagi para anggota untuk saling berbagi pengalaman, menikmati keseruan dalam mengendarai motor, dan terus belajar mengenai perkembangan terbaru dalam dunia otomotif. Dengan basis di Kota Jakarta, RevMasters senantiasa mengadakan berbagai acara seperti touring, modifikasi motor, dan diskusi teknis untuk memupuk rasa kebersamaan dan memperluas wawasan anggota-anggotanya.</p>
         </div>
         <div class="image">
-          <img src="fototentang.jpg" alt="Tentang Kami">
+          <img src="images/tentang.jpg" alt="Tentang Kami">
         </div>
       </div>
     </div>

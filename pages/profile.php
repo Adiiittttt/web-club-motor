@@ -16,7 +16,7 @@
           </ul>
         </div>
         <div class="profile-image">
-          <img src="solid.jpg" alt="Profile Image">
+          <img src="images/solid.jpg" alt="Profile Image">
         </div>
       </div>
     </div>
