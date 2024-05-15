@@ -9,7 +9,7 @@
         <div class="contact-item">
           <i class="fas fa-map-marker-alt"></i>
           <h3>Alamat</h3>
-          <p>Jalan Raya Utama No. 123, Kota Jakarta</p>
+          <p>Jalan Brigjen Hasan Basri ,handil bakti, Kalimantan Selatan </p>
         </div>
         <div class="contact-item">
           <i class="fas fa-phone"></i>
@@ -19,7 +19,7 @@
         <div class="contact-item">
           <i class="fas fa-envelope"></i>
           <h3>Email</h3>
-          <p>info@revmasters.com</p>
+          <p>muhammadaditya322@smk.belajar.id</p>
         </div>
       </div>
     </div>
